@@ -1,0 +1,1 @@
+console.log("Oi, auterei meu arquivo js");
